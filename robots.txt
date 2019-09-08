@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beishoubuw.nimalaya.com/sitemap.xml
